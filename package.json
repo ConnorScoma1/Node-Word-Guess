@@ -17,6 +17,9 @@
   },
   "homepage": "https://github.com/ConnorScoma1/Node-Word-Guess#readme",
   "dependencies": {
-    "inquire": "^0.4.8"
+    "inquire": "^0.4.8",
+    "inquirer": "^6.3.1",
+    "install": "^0.12.2",
+    "npm": "^6.9.0"
   }
 }
